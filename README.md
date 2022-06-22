@@ -6,7 +6,7 @@
   
 # Clone code from github:
     git clone https://github.com/Naresh240/springboot-hello.git
-    cd pring-boot-hello
+    cd spring-boot-hello
 # Build Maven Artifact:
     mvn clean install
 # Deploy springboot application:
